@@ -1,2 +1,3 @@
 # hello-world
-Change your life
+Josh here, I love coffee and chocolate, not necessarily in that order.
+
