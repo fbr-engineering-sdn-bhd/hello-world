@@ -1,8 +1,8 @@
 # hello-world
 
-Josh here, I love coffee and chocolate, not necessarily in that order.
+Josh here, I love coffee, chocolate, and sushi, not necessarily in that order.
 
 
-Change your life
+Be better. 
 (:
 
